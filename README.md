@@ -40,7 +40,58 @@ Lihat [scenarios/00-overview-dan-rekomendasi.md](scenarios/00-overview-dan-rekom
 
 | File | Konten |
 |------|--------|
+| [scenarios/15-durasi-dan-jadwal.md](scenarios/15-durasi-dan-jadwal.md) | Estimasi durasi + jadwal harian detail (dengan bantuan AI) |
+| [scenarios/15b-durasi-tanpa-ai.md](scenarios/15b-durasi-tanpa-ai.md) | Estimasi durasi + jadwal yang disesuaikan tanpa bantuan AI |
 | [scenarios/16-daftar-tools.md](scenarios/16-daftar-tools.md) | Daftar lengkap tools, instalasi, dan matriks tools per skenario |
+
+---
+
+---
+
+## Network Penetration Testing
+
+Lihat [network/00-overview-network.md](network/00-overview-network.md) untuk overview dan perbandingan dengan application pentest.
+
+| # | Skenario | File |
+|---|----------|------|
+| 1 | Internal LAN (Jaringan Korporat + Active Directory) | [network/01-internal-lan.md](network/01-internal-lan.md) |
+| 2 | Wireless / WiFi (WPA cracking, Evil Twin, VLAN) | [network/02-wireless-wifi.md](network/02-wireless-wifi.md) |
+| 3 | VPN & Remote Access | [network/03-vpn-remote-access.md](network/03-vpn-remote-access.md) |
+| 4 | Segmentasi Jaringan & Firewall | [network/04-segmentasi-firewall.md](network/04-segmentasi-firewall.md) |
+| 5 | DMZ (Demilitarized Zone) | [network/05-dmz.md](network/05-dmz.md) |
+| 6 | Cloud Network (AWS/GCP/Azure) | [network/06-cloud-network.md](network/06-cloud-network.md) |
+| 7 | OT/ICS/SCADA (Industrial Network) | [network/07-ot-ics-scada.md](network/07-ot-ics-scada.md) |
+
+---
+
+## Hardware Penetration Testing
+
+Lihat [hardware/00-overview-hardware.md](hardware/00-overview-hardware.md) untuk overview dan peralatan yang diperlukan.
+
+| # | Skenario | File |
+|---|----------|------|
+| 1 | IoT Devices (kamera, sensor, router IoT) | [hardware/01-iot-devices.md](hardware/01-iot-devices.md) |
+| 2 | RFID & NFC (kartu akses gedung) | [hardware/02-rfid-nfc.md](hardware/02-rfid-nfc.md) |
+| 3 | Network Devices (router/switch/firewall) | [hardware/03-network-devices.md](hardware/03-network-devices.md) |
+| 4 | ATM & POS Terminals | [hardware/04-atm-pos.md](hardware/04-atm-pos.md) |
+| 5 | Firmware & Embedded Systems | [hardware/05-firmware-embedded.md](hardware/05-firmware-embedded.md) |
+| 6 | USB & Physical Ports | [hardware/06-usb-physical-ports.md](hardware/06-usb-physical-ports.md) |
+
+---
+
+## Personnel Penetration Testing (Social Engineering)
+
+Lihat [personnel/00-overview-personnel.md](personnel/00-overview-personnel.md) untuk framework dan aturan etika yang wajib dipenuhi.
+
+| # | Skenario | File |
+|---|----------|------|
+| 1 | Phishing Email Campaign | [personnel/01-phishing-email.md](personnel/01-phishing-email.md) |
+| 2 | Vishing (Voice Phishing) | [personnel/02-vishing.md](personnel/02-vishing.md) |
+| 3 | Smishing (SMS Phishing) | [personnel/03-smishing.md](personnel/03-smishing.md) |
+| 4 | Physical Intrusion & Tailgating | [personnel/04-physical-intrusion.md](personnel/04-physical-intrusion.md) |
+| 5 | USB Drop Attack | [personnel/05-usb-drop.md](personnel/05-usb-drop.md) |
+| 6 | Pretexting & Impersonation | [personnel/06-pretexting-impersonation.md](personnel/06-pretexting-impersonation.md) |
+| 7 | Baiting & Quid Pro Quo | [personnel/07-baiting-quidproquo.md](personnel/07-baiting-quidproquo.md) |
 
 ---
 
