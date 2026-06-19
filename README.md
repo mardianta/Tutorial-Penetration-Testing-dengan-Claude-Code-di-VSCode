@@ -36,18 +36,6 @@ Lihat [scenarios/00-overview-dan-rekomendasi.md](scenarios/00-overview-dan-rekom
 
 ---
 
-### Referensi Pendukung
-
-| File | Konten |
-|------|--------|
-| [scenarios/15-durasi-dan-jadwal.md](scenarios/15-durasi-dan-jadwal.md) | Estimasi durasi + jadwal harian detail (dengan bantuan AI) |
-| [scenarios/15b-durasi-tanpa-ai.md](scenarios/15b-durasi-tanpa-ai.md) | Estimasi durasi + jadwal yang disesuaikan tanpa bantuan AI |
-| [scenarios/16-daftar-tools.md](scenarios/16-daftar-tools.md) | Daftar lengkap tools, instalasi, dan matriks tools per skenario |
-
----
-
----
-
 ## Network Penetration Testing
 
 Lihat [network/00-overview-network.md](network/00-overview-network.md) untuk overview dan perbandingan dengan application pentest.
